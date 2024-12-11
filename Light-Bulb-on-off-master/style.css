@@ -1,0 +1,17 @@
+body{
+    background:rgb(95 103 123);
+    margin: 10%;
+    padding: 2px;
+    text-align: center;
+}
+img{
+   width: 200px;
+}
+button{
+
+    width: 200px;
+    padding: 10px;
+    border-radius: 60px;
+    background-color: rgb(236, 163, 35);
+    font-size: larger;
+}
